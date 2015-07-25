@@ -1,4 +1,6 @@
 .env
 .idea
+.vagrant
+composer.phar
 /node_modules
 /vendor
